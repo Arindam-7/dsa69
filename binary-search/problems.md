@@ -1,13 +1,13 @@
 ### BS on 1D arrays
-- [ ] Implement lower and upper bound
-- [ ] Search insert position  
-- [ ] Floor/ceil in sorted array 
-- [ ] Find the first and last occurence in arr 
-- [ ] Search in rotated sorted arr 1,2 
-- [ ] Min in rotated sorted arr 
-- [ ] Find out number of rotations 
-- [ ] Single elem in sorted arr 
-- [ ] Peak element 
+- [x] Implement lower and upper bound
+- [x] Search insert position  
+- [x] Floor/ceil in sorted array 
+- [x] Find the first and last occurence in arr 
+- [x] Search in rotated sorted arr 1,2 
+- [x] Min in rotated sorted arr 
+- [x] Find out number of rotations 
+- [x] Single elem in sorted arr 
+- [x] Peak element 
 
 ### BS on answer
 - [ ] Find sqrt of a no 
